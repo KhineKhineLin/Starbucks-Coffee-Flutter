@@ -1,4 +1,4 @@
-# starbucks
+# Starbucks Coffee Flutter
 
 A new Flutter project.
 
